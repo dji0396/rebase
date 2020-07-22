@@ -1,7 +1,7 @@
 <?php 
 
 
-echo "yes.nannsdsd.test"
+echo "vvxvcvxvcvxcx.nannsdsd.test"
 
 
  echo "testttsds"
